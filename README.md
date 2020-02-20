@@ -1,15 +1,18 @@
 # Blender-Duplirig
 Blender Duplicator Rig Project: reverse engineering using Blender of "Duplicator Rig" by Meindbender Studio. Only educational purposes. 
 
-Features already working: 
+![Rest Pose](Blender- [-home-malefico-Documentos-proyectos-duplirigg-tests-duplicator-rigg.blend]_072.png)
+![Extreme Pose](Blender- [-home-malefico-Documentos-proyectos-duplirigg-tests-duplicator-rigg.blend]_073.png)
 
-Eyes: sticking in and out of main body, with independent eyesocket controllers (all done with warp modifiers), eyelids open/shut (via armature deformation and action constraints), eye global deformation via lattices. Tracking of pupils. Motion of complete pair.
+## Features already working: 
 
-Mouth: Moves up/down via shapekeys. Secondary deformation of mouth shape via armature. Controllers travels with deformation via auxiliary mesh (dorito effect). Complete shut drives solidify turn off. Extreme poses via shapekeys.
+* Eyes: sticking in and out of main body, with independent eyesocket controllers (all done with warp modifiers), eyelids open/shut (via armature deformation and action constraints), eye global deformation via lattices. Tracking of pupils. Motion of complete pair.
 
-Teeth: They follow mouth deformation using auxiliary mesh. Independent teeth controllers.
+* Mouth: Moves up/down via shapekeys. Secondary deformation of mouth shape via armature. Controllers travels with deformation via auxiliary mesh (dorito effect). Complete shut drives solidify turn off. Extreme poses via shapekeys.
 
-Body: initial deformation using mesh deformers and armature combined.
+* Teeth: They follow mouth deformation using auxiliary mesh. Independent teeth controllers.
+
+* Body: initial deformation using mesh deformers and armature combined. Squash and stretch added to bone deformers.
 
 First official demo: https://youtu.be/wEUm-L012ig
 Second demo: https://youtu.be/4di4A7ZkLE8
