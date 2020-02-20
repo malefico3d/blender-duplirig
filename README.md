@@ -1,4 +1,4 @@
-# blender-duplirig
+# Blender-Duplirig
 Blender Duplicator Rig Project: reverse engineering using Blender of "Duplicator Rig" by Meindbender Studio. Only educational purposes. 
 
 Features already working: 
