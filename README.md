@@ -1,8 +1,8 @@
 # Blender-Duplirig
 Blender Duplicator Rig Project: reverse engineering using Blender of "Duplicator Rig" by Meindbender Studio. Only educational purposes. 
 
-![Rest Pose](Blender- [-home-malefico-Documentos-proyectos-duplirigg-tests-duplicator-rigg.blend]_072.png)
-![Extreme Pose](Blender- [-home-malefico-Documentos-proyectos-duplirigg-tests-duplicator-rigg.blend]_073.png)
+![Rest Pose](restpose.png)
+![Extreme Mouth Pose](extreme_mouth.png)
 
 ## Features already working: 
 
